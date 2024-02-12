@@ -1,0 +1,17 @@
+1) search the jar name.
+
+2)  Go to the site -->  https://mvnrepository.com/artifact/org.apache.poi/poi/5.2.5
+
+3) Go to the site -->  https://jar-download.com/online-maven-download-tool.php
+
+4) Path the Maven Dependency on Maven XML:
+
+past this dependecy in Maven XML:
+<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi</artifactId>
+    <version>5.2.5</version>
+</dependency>
+
+5) Download all the jars file.
